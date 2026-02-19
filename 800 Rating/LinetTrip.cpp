@@ -61,10 +61,11 @@ int main(){
     }
 
     return 0;
+}
 
-  //using tc O(n);
+//using tc O(n);
 
-  #include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 
@@ -91,5 +92,4 @@ int main(){
     }
 
     return 0;
-}
 }
